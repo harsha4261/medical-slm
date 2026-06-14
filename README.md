@@ -80,13 +80,9 @@ The best model weights are saved in `best_model_params.pt`
 
 Training metrics and loss plots are saved in `plot.png`
 
-## License
-
-MIT License
-
 ## Author
 
-[Your Name]
+Harsha Vardhan Emani
 
 ## Contact
 
